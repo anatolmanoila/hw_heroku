@@ -1,0 +1,30 @@
+{
+    "name": "node_example",
+    "version": "0.0.0",
+    "description": "hello world node express first app on heroku",
+    "main": "web.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/anatolmanoila/hw_heroku.git"
+    },
+    "keywords": [
+        "just",
+        "demo"
+    ],
+    "author": "am",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/anatolmanoila/hw_heroku/issues"
+    },
+    "homepage": "https://github.com/anatolmanoila/hw_heroku",
+    "dependencies": {
+        "logfmt": "^1.1.2",
+        "express": "^3.5.1"
+    }
+    "engines": {
+        "node": "0.10.26"
+    }
+}
